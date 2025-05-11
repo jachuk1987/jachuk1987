@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning ... WordPress Development (Themes & Plugins)
 
-💻 GM Online
+💻 MSB Software Technology
 
 Frontend: HTML5, CSS3, JavaScript, ReactJS, AngularJS
 
