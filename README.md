@@ -52,8 +52,8 @@ I specialize in converting complex UI/UX designs into clean, efficient, and reus
 
 ### 📫 Let's Connect
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-link) *(Add if available)*
+- [GitHub](https://github.com/jachuk1987)
+- [LinkedIn](https://www.linkedin.com/in/jeswanthk1987/)
 - 📧 jeswanth.k1987@gmail.com
 
 ---
