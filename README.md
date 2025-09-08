@@ -1,62 +1,59 @@
-# 👋 Hi, I'm Jeswanth
+# 👋 Hi, I'm K Jeswanth  
 
-### 🚀 Frontend Developer | 💻 7+ Years of Experience | 🌐 Based in India
+🚀 **Frontend & AEM Developer | React | Angular | Adobe Experience Manager (AEM)**  
 
-I'm a passionate UI developer with over 7 years of experience building modern, performant, and responsive web applications using **ReactJS**, **JavaScript (ES6+)**, **Redux**, **HTML5**, and **CSS3**.
+I’m a passionate **UI & AEM Developer** with **7.9 years of experience** building responsive, user-centric web applications.  
+I specialize in **ReactJS, Angular, Redux, and AEM**, creating scalable, high-performance applications with modern web technologies.  
 
-I focus on transforming complex UI/UX designs into clean, maintainable code with an emphasis on **performance optimization**, **SEO best practices**, and **cross-browser compatibility**.
+---
+
+## 🧑‍💻 About Me
+- 🔹 7.9 years of experience in **UI Development** (ReactJS, Angular, Redux, AEM).  
+- 🔹 6 years of expertise in **ReactJS** with **Redux state management**.  
+- 🔹 5 years of **Angular** experience (up to v15) with **TypeScript** & **NgRx**.  
+- 🔹 4 years of **Adobe Experience Manager (AEM)** experience:  
+  - Components (HTL, Sling Models)  
+  - Templates & Editable Templates  
+  - OSGi Services, Workflows, Dispatcher  
+  - Content Fragments, DAM, AEM as a Cloud Service  
+- 🔹 Strong knowledge of **HTML, CSS, JavaScript (ES6+)**, responsive design, and performance optimization.  
+- 🔹 Experienced in integrating **REST APIs** across React, Angular, and AEM backends.  
+- 🔹 Familiar with **Agile methodology & Scrum practices**.  
+- 🔹 Skilled with **VS Code, Git, Chrome DevTools, JIRA**, and AI-powered productivity tools.  
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), JSON, AJAX  
-- **Frameworks & Libraries:** ReactJS (v18+), Redux, Bootstrap  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools, JIRA, Babel, NPM  
-- **Concepts:** Responsive Design, Hooks, REST APIs, Functional Components, DOM/BOM  
-
----
-
-## 💼 Experience
-
-**Senior UI Developer** – *MSB Software*  
-📅 Feb 2021 – Present  
-- Leading ReactJS/Redux projects and component library development  
-- Optimized app performance and reduced rendering time  
-- Mentored junior developers and contributed to design system scalability  
-
-**UI Developer** – *GM Online, Bangalore*  
-📅 Mar 2018 – Jan 2021  
-- Developed modular UI components with Redux integration  
-- Built responsive interfaces and handled RESTful API consumption  
+**Frontend:** ReactJS, Angular, Redux, NgRx, TypeScript, JavaScript (ES6+), HTML5, CSS3  
+**CMS:** Adobe Experience Manager (AEM) – Components, Templates, OSGi, Dispatcher, DAM  
+**Tools:** Git, VS Code, Chrome DevTools, JIRA, Agile/Scrum  
+**Other:** REST APIs, SEO Optimization, Performance Tuning, Responsive Design  
 
 ---
 
-## 🏆 Highlights
+## 💼 Professional Experience
 
-- ⚡ Reduced rendering time across critical React applications  
-- 🤖 Integrated AI tools to automate frontend workflows  
-- 🎨 Contributed to reusable design systems for consistent UI/UX  
-
----
-
-## 🔍 Featured Projects
-
-- **Healthcare Dashboard** – Manage appointments, prescriptions, and patient history  
-- **Job Search Platform** – Job listings, user profiles, and alert management  
-- **Rooms Too Night** – Room booking app with smart filters and UX flow  
-- **Analytics Dashboard** – Real-time traffic and SEO metrics visualization  
-- **PCWorld** – Review platform for electronic gadgets and devices  
+**Senior UI & AEM Developer — MSB Software**  
+📅 *Feb 2021 – Present*  
+- Leading front-end development with **ReactJS, Angular, Redux, and AEM** for enterprise-grade apps.  
+- Designed and developed **AEM components** using HTL, Sling Models, and OSGi services.  
+- Worked with **Templates, Editable Templates, Content Fragments, and DAM** to create author-friendly experiences.  
+- Collaborated with cross-functional teams to deliver **scalable and high-quality solutions**.  
 
 ---
 
-## 📫 Connect with Me
-
-- **Email:** [jeswanth.k1987@gmail.com](mailto:jeswanth.k1987@gmail.com)  
-- **Phone:** +91 93920 64446  
-- **LinkedIn:** [linkedin.com/in/jeswanth](https://www.linkedin.com/in/jeswanth)  
-- **GitHub:** [github.com/jeswanth](https://github.com/jeswanth)
+## 🎓 Education
+- **B.Tech in Computer Science**  
+  Andhra University, Vizag (2008)  
 
 ---
 
-_“Clean code, clean UI, better experiences.”_
+## 📫 Let's Connect!
+- 📧 Email: **jeswanth.k1987@gmail.com**  
+- 📱 Phone: **+91 93920 64446**  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link here)*  
+- 🌐 [Portfolio / GitHub Projects](https://github.com/your-username)  
+
+---
+
+⭐️ *"Passionate about creating clean, efficient, and scalable solutions that delight users and empower businesses."*  
