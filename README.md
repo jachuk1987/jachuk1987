@@ -51,7 +51,7 @@ I specialize in **ReactJS, Angular, Redux, and AEM**, creating scalable, high-pe
 ## 📫 Let's Connect!
 - 📧 Email: **jeswanth.k1987@gmail.com**  
 - 📱 Phone: **+91 93920 64446**  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link here)*  
+- 💼 [LinkedIn]https://www.linkedin.com/in/jeswanthk1987/ *(Add your profile link here)*  
 - 🌐 [Portfolio / GitHub Projects](https://github.com/your-username)  
 
 ---
