@@ -8,6 +8,7 @@ I’m a passionate Frontend Developer with 7.9 years of experience building mode
 I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-performance solutions with clean and maintainable code.
 
 ---
+
 ## 🧑‍💻 About Me
 - 🔹 7.9 years of experience in **UI Development** (ReactJS, Angular, Redux, AEM).  
 - 🔹 6 years of expertise in **ReactJS** with **Redux state management**.  
