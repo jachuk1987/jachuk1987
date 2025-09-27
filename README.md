@@ -68,5 +68,3 @@ B.Tech in Computer Science – Andhra University, Vizag (2008)
 🧑‍💼Naukri Profile: https://www.naukri.com/mnjuser/profile?id=&altresid  
 
 ---
-
-⭐️ *"Passionate about creating clean, efficient, and scalable solutions that delight users and empower businesses."*  
