@@ -9,19 +9,19 @@ I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-perform
 
 ---
 
-## 🧑‍💻 About Me
-- 🔹 7.9 years of experience in **UI Development** (ReactJS, Angular, Redux, AEM).  
-- 🔹 6 years of expertise in **ReactJS** with **Redux state management**.  
-- 🔹 5 years of **Angular** experience (up to v15) with **TypeScript** & **NgRx**.  
-- 🔹 4 years of **Adobe Experience Manager (AEM)** experience:  
-  - Components (HTL, Sling Models)  
-  - Templates & Editable Templates  
-  - OSGi Services, Workflows, Dispatcher  
-  - Content Fragments, DAM, AEM as a Cloud Service  
-- 🔹 Strong knowledge of **HTML, CSS, JavaScript (ES6+)**, responsive design, and performance optimization.  
-- 🔹 Experienced in integrating **REST APIs** across React, Angular, and AEM backends.  
-- 🔹 Familiar with **Agile methodology & Scrum practices**.  
-- 🔹 Skilled with **VS Code, Git, Chrome DevTools, JIRA**, and AI-powered productivity tools.  
+🧑‍💻 About Me
+
+🔹 7.9 years of experience in UI development.
+
+🔹 6 years of expertise in ReactJS with Redux & Hooks.
+
+🔹 5 years of Angular experience (up to v15) with TypeScript & NgRx.
+
+🔹 Strong in JavaScript (ES6+), HTML5, CSS3, and Responsive Design.
+
+🔹 Experienced in REST API integration and performance optimization.
+
+🔹 Proficient in Agile/Scrum practices and Git-based workflows. 
 
 ---
 
