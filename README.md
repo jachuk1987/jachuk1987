@@ -33,7 +33,19 @@ Other: REST APIs, SEO Optimization, Performance Tuning, Responsive Design
 
 ---
 
+💼 Professional Experience
 
+Senior UI Developer – MSB Software (Feb 2021 – Present)
+
+Built enterprise-grade apps using ReactJS, Angular, Redux, and TypeScript.
+
+Developed reusable, scalable UI components and integrated REST APIs.
+
+Implemented state management with Redux/NgRx.
+
+Collaborated with cross-functional teams in an Agile environment.
+
+Focused on code quality, performance, and best practices.
 ---
 
 ## 🎓 Education
