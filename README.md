@@ -52,6 +52,7 @@ Focused on code quality, performance, and best practices.
 🎓 Education
 
 B.Tech in Computer Science – Andhra University, Vizag (2008)
+
 ---
 
 ## 📫 Let's Connect!
