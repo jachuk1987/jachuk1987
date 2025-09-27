@@ -1,11 +1,11 @@
 # 👋 Hi, I'm K Jeswanth  
 
-🚀 **Frontend & AEM Developer | React | Angular | Adobe Experience Manager (AEM)**  
+👋 Hi, I'm K Jeswanth
 
-I’m a passionate **UI & AEM Developer** with **7.9 years of experience** building responsive, user-centric web applications.  
-I specialize in **ReactJS, Angular, Redux, and AEM**, creating scalable, high-performance applications with modern web technologies.  
+🚀 Frontend Developer | React | Angular | Redux | TypeScript
 
----
+I’m a passionate Frontend Developer with 7.9 years of experience building modern, responsive, and scalable web applications.
+I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-performance solutions with clean and maintainable code.
 
 ## 🧑‍💻 About Me
 - 🔹 7.9 years of experience in **UI Development** (ReactJS, Angular, Redux, AEM).  
