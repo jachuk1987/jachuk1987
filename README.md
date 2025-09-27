@@ -33,14 +33,6 @@ Other: REST APIs, SEO Optimization, Performance Tuning, Responsive Design
 
 ---
 
-## 💼 Professional Experience
-
-**Senior UI & AEM Developer — MSB Software**  
-📅 *Feb 2021 – Present*  
-- Leading front-end development with **ReactJS, Angular, Redux, and AEM** for enterprise-grade apps.  
-- Designed and developed **AEM components** using HTL, Sling Models, and OSGi services.  
-- Worked with **Templates, Editable Templates, Content Fragments, and DAM** to create author-friendly experiences.  
-- Collaborated with cross-functional teams to deliver **scalable and high-quality solutions**.  
 
 ---
 
