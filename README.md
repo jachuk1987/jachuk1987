@@ -46,6 +46,7 @@ Implemented state management with Redux/NgRx.
 Collaborated with cross-functional teams in an Agile environment.
 
 Focused on code quality, performance, and best practices.
+
 ---
 
 ## 🎓 Education
