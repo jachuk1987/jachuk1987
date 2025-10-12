@@ -1,6 +1,6 @@
 # 👋 Hi, I'm K Jeswanth  
 
-🚀 Frontend 
+🚀 Frontend Developer
 
 I’m a passionate Frontend Developer with 7.9 years of experience building modern, responsive, and scalable web applications.
 I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-performance solutions with clean and maintainable code.
