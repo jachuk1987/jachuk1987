@@ -1,6 +1,5 @@
 # 👋 Hi, I'm K Jeswanth  
 
-👋 Hi, I'm K Jeswanth
 
 🚀 Frontend Developer | React | Angular | Redux | TypeScript
 
