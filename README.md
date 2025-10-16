@@ -23,7 +23,7 @@ I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-perform
 
 ---
 
-🛠️ Tech Stack
+🛠️ Tech Stack  
 
 Frontend: ReactJS, Angular, Redux, NgRx, TypeScript, JavaScript (ES6+), HTML5, CSS3
 Tools: Git, VS Code, Chrome DevTools, JIRA
