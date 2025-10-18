@@ -19,7 +19,7 @@ I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-perform
 
 🔹 Experienced in REST API integration and performance optimization. 
 
-🔹 Proficient in Agile/Scrum practices and Git-based workflows.  
+🔹 Proficient in Agile/Scrum practices and Git-based workflows. 
 
 ---
 
