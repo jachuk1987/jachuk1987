@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KothollaJeswanth  
+# 👋 Hi, I'm Kotholla Jeswanth  
 
 🚀 Frontend Developer | React | Angular | Redux | TypeScript  
 
