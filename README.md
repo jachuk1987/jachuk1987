@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kotholla Jeswanth 
-
+ 
 🚀 Frontend Developer | React | Angular | Redux | TypeScript 
 
 I’m a passionate Frontend Developer with 7.9 years of experience building modern, responsive, and scalable web applications. 
