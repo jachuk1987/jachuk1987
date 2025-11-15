@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K Jeswanth  
+# 👋 Hi, I'm Ko Jeswanth  
 
 🚀 Frontend Developer | React | Angular | Redux | TypeScript  
 
