@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Koth Jeswanth  
+# 👋 Hi, I'm Kot Jeswanth  
 
 🚀 Frontend Developer | React | Angular | Redux | TypeScript  
 
