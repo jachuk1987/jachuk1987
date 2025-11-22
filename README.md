@@ -15,7 +15,7 @@ I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-perform
 
 🔹 5 years of Angular experience (up to v15) with TypeScript & NgRx. 
 
-🔹 Strong in JavaScript (ES6+), HTML5, CSS3, and Responsive Design.
+🔹 Strong in JavaScript (ES6+), HTML5, CSS3, and Responsive Design. 
 
 🔹 Experienced in REST API integration and performance optimization. 
 
