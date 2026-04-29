@@ -57,7 +57,7 @@ B.Tech in Computer Science – Andhra University, Vizag (2008)
 
 📧 Email: jeswanth.k1987@gmail.com
 
-📱 Phone: **+91 93920 64446**  
+📱 Phone: **+91 98850 58859**  
 
 💼 LinkedIn: linkedin.com/in/jeswanthk1987
 
