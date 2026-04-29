@@ -9,7 +9,7 @@ I specialize in ReactJS, Angular, Redux, and TypeScript, delivering high-perform
 
 🧑‍💻 About Me 
 
-🔹 7.9 years of experience in UI development. 
+🔹 8.3 years of experience in UI development. 
 
 🔹 6 years of expertise in ReactJS with Redux & Hooks. 
 
